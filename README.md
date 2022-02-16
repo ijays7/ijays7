@@ -2,5 +2,5 @@
 
 My name is ijays7, an Android engineer at Camera360.
 
-- 🌱 I’m currently learning Jetpack Compose
+- 🌱 I’m currently learning Jetpack Compose & SwiftUI
 
